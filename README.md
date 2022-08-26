@@ -14,7 +14,7 @@ Aula | Descrição | Status
 07| Clonando um Repositório | :white_check_mark:
 08| Versionando seus projetos antigos | :white_check_mark:
 09| Você sabe usar Issues? | :white_check_mark:
-10| Guia da Linguagem Markdown | 
-11| Seu GitHub muito mais seguro | 
+10| Guia da Linguagem Markdown | :white_check_mark:
+11| Seu GitHub muito mais seguro |  :white_check_mark:
 12| Git Branches de forma fácil e com exemplo | 
 13| Hospedagem Grátis no GitHub Pages | 
